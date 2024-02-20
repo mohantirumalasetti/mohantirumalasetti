@@ -1,1 +1,1 @@
-# :nerd_face: Tirumalasetti Mohan Sri Sai
+# :man_technologist: Tirumalasetti Mohan Sri Sai
