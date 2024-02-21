@@ -13,7 +13,7 @@
 - 📫 How to reach me **tirumalasettimohansrisai@gmail.com**
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohantirumalasetti&show_icons=true&locale=en&layout=compact" alt="mohantirumalasetti" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohantirumalasetti&show_icons=true&locale=en&layout=compact" alt="mohantirumalasetti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohantirumalasetti&show_icons=true&locale=en" alt="mohantirumalasetti" /></p>
 
