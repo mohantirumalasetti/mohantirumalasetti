@@ -3,7 +3,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohantirumalasetti&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="mohantirumalasetti" /> </p>
  
 <p align="center">
-  <img src="https://media1.tenor.com/m/QomTTeiLAXkAAAAC/mitchell.gif" alt="luffy">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fresultados-da-pesquisa-de-imagens-do-google-para-httpsctenorcomcddzvcnllheaaaacluffywanogif--657244139395865799%2F&psig=AOvVaw1o_PI9bzqn_yk7oyf_xgxL&ust=1711006961736000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMidmOSrgoUDFQAAAAAdAAAAABAE" alt="luffy">
 </p>
 
 
