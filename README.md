@@ -1,7 +1,8 @@
 # :man_technologist: Tirumalasetti Mohan Sri Sai 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohantirumalasetti&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="mohantirumalasetti" /> </p>
-[image](https://github.com/mohantirumalasetti/mohantirumalasetti/assets/89044700/7164acd1-2f7e-4965-bbc5-59b9f1a75037)
+ 
+![image](https://github.com/mohantirumalasetti/mohantirumalasetti/assets/89044700/7164acd1-2f7e-4965-bbc5-59b9f1a75037)
 
 #### Welcome to my GitHub profile 
 
