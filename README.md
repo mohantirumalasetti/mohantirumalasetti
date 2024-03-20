@@ -3,7 +3,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohantirumalasetti&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="mohantirumalasetti" /> </p>
  
 <p align="center">
-  <img src="https://media1.tenor.com/m/om0-IewhKx0AAAAC/luffy-child.gif" alt="luffy">
+  <img src="https://media1.tenor.com/m/TjUflxYj3tsAAAAd/guts-berserk-guts.gif" alt="luffy">
 </p>
 
 
