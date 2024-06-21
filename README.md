@@ -13,7 +13,7 @@
 
 - ✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
-- 🌱 I’m currently learning **Django and Machine Learning**
+- 🌱 I’m currently learning **Python and Cyber Security**
 
 - 📫 How to reach me **tirumalasettimohansrisai@gmail.com**
 
